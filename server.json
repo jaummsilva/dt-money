@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-28T12:52:09.062Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-02-28T12:30:09.062Z"
+    },
+    {
+      "id": "6b9f",
+      "description": "Igreja",
+      "price": 100,
+      "category": "Religião",
+      "type": "outcome",
+      "createdAt": "2024-04-16T17:45:32.988Z"
+    },
+    {
+      "id": "d2c5",
+      "description": "Teste",
+      "price": 10000,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2024-04-16T17:57:59.895Z"
+    }
+  ]
+}
